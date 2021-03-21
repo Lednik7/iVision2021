@@ -1,6 +1,6 @@
 # iVision2021
 Репозиторий команды Best Character \
-Сокомандник: [Egoluback](https://github.com/Egoluback)
+Сокомандники: [Egoluback](https://github.com/Egoluback), [arsepav](https://github.com/arsepav)
 
 
 [Страничка хакатона](http://ivision.citylink.pro/)
